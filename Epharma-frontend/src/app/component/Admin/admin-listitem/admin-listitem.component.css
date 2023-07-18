@@ -1,0 +1,25 @@
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.container 
+{
+    width: 50%;
+    height: 40%;
+}
+.img-fluid
+{
+    
+    height: 70%;
+    width: 70%;
+}
+.row
+{
+    margin: 20px;
+}
+
+.card
+{
+    background: radial-gradient(circle, rgba(240,248,255,1) 18%, #CBD5F0 100%);
+}
